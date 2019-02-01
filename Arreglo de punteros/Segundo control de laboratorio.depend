@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1548947776 source:c:\users\alumno-n415\documents\matlab\segundo control de laboratorio\main.cpp
+	<iostream>
+	"Rectangle.h"
+	"Triangle.h"
+	"Polygon.h"
+	"PolygonArray.h"
+
+1548943605 source:c:\users\alumno-n415\documents\matlab\segundo control de laboratorio\src\polygon.cpp
+	"Polygon.h"
+
+1548945064 c:\users\alumno-n415\documents\matlab\segundo control de laboratorio\include\polygon.h
+	<iostream>
+
+1548943605 source:c:\users\alumno-n415\documents\matlab\segundo control de laboratorio\src\rectangle.cpp
+	"Rectangle.h"
+
+1548946371 c:\users\alumno-n415\documents\matlab\segundo control de laboratorio\include\rectangle.h
+	<Polygon.h>
+
+1548944387 source:c:\users\alumno-n415\documents\matlab\segundo control de laboratorio\src\triangle.cpp
+	"Triangle.h"
+
+1548946283 c:\users\alumno-n415\documents\matlab\segundo control de laboratorio\include\triangle.h
+	<Polygon.h>
+
+1548946211 source:c:\users\alumno-n415\documents\matlab\segundo control de laboratorio\src\polygonarray.cpp
+	"PolygonArray.h"
+
+1548947770 c:\users\alumno-n415\documents\matlab\segundo control de laboratorio\include\polygonarray.h
+	<Polygon.h>
+
+1549030321 source:c:\users\sebastian\documents\ciencias de la computacion i\arreglo-dinamico-con-clase-abstracta-master\segundo control de laboratorio\main.cpp
+	<iostream>
+	"Rectangle.h"
+	"Triangle.h"
+	"Polygon.h"
+	"PolygonArray.h"
+
+1548948678 c:\users\sebastian\documents\ciencias de la computacion i\arreglo-dinamico-con-clase-abstracta-master\segundo control de laboratorio\include\rectangle.h
+	<Polygon.h>
+
+1548961733 c:\users\sebastian\documents\ciencias de la computacion i\arreglo-dinamico-con-clase-abstracta-master\segundo control de laboratorio\include\polygon.h
+	<iostream>
+
+1548948678 c:\users\sebastian\documents\ciencias de la computacion i\arreglo-dinamico-con-clase-abstracta-master\segundo control de laboratorio\include\triangle.h
+	<Polygon.h>
+
+1549030230 c:\users\sebastian\documents\ciencias de la computacion i\arreglo-dinamico-con-clase-abstracta-master\segundo control de laboratorio\include\polygonarray.h
+	"Polygon.h"
+
+1548948678 source:c:\users\sebastian\documents\ciencias de la computacion i\arreglo-dinamico-con-clase-abstracta-master\segundo control de laboratorio\src\polygon.cpp
+	"Polygon.h"
+
+1549030409 source:c:\users\sebastian\documents\ciencias de la computacion i\arreglo-dinamico-con-clase-abstracta-master\segundo control de laboratorio\src\polygonarray.cpp
+	"PolygonArray.h"
+
+1548948678 source:c:\users\sebastian\documents\ciencias de la computacion i\arreglo-dinamico-con-clase-abstracta-master\segundo control de laboratorio\src\rectangle.cpp
+	"Rectangle.h"
+
+1548948678 source:c:\users\sebastian\documents\ciencias de la computacion i\arreglo-dinamico-con-clase-abstracta-master\segundo control de laboratorio\src\triangle.cpp
+	"Triangle.h"
+
